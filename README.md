@@ -1,3 +1,6 @@
+# noteRank
+<img height="300" src="https://user-images.githubusercontent.com/36716427/112519620-4e59cf80-8d79-11eb-851a-97d0a27ba25f.png"/>
+
 Lists most similar files to current one.
 
 Calculates the set of the N (default = 20) most relevant words in a file using [TF-IDF score](https://en.wikipedia.org/wiki/Tf%E2%80%93idf). Then measure their similarity with the [Jaccard Index](https://en.wikipedia.org/wiki/Jaccard_index).
